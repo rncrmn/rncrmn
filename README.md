@@ -7,7 +7,7 @@ Motoko and React/Next.js Developer
 I've been a developer for 9 years, started from fundamentals HTML, CSS and JS for a year then got a job a senior WordPress developer for a marketing agency in Australia for 7 years and 1 year experience of Motoko (for creating DApps on the IC) and React/Next.js.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [aaron.com](http://https://aaroncarmen.netlify.app/)
+* 🖥️  See my portfolio at [aaron.com](https://aaroncarmen.netlify.app/)
 * ✉️  You can contact me at [aaronleadgeex@gmail.com](mailto:aaronleadgeex@gmail.com)
 * 🧠  I'm learning Motoko a programming language for building directly on the internet
 * 🤝  I'm open to collaborating on DFinity or anything runs on the ICP (Internet Computer Protocol)
