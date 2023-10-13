@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Aaron Carmen
 ====================================================================================================================================
 
-SolidJS Developer
+AstroJS Developer
 ----------------------------------
 
-I've been a developer for nearly a decade, started from fundamentals HTML, CSS and JS for a year then got a job a senior WordPress developer for a marketing agency in Australia for 7 years and 1 year experience of Motoko (for creating DApps on the IC) and React & SolidJS.
+I've been a developer for nearly a decade, started from fundamentals HTML, CSS and JS for a year then got a job a senior WordPress developer for a marketing agency in Australia for 7 years and 1 year experience of React, AstroJs & SolidJS.
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [aaroncarmen.com](https://aaroncarmen.netlify.app/)
 * ✉️  You can contact me at [aaronleadgeex@gmail.com](mailto:aaronleadgeex@gmail.com)
-* 🧠  I'm learning Motoko a programming language for building directly on the IC (Internet Computer)
-* 🤝  I'm open to collaborating on DFinity or anything runs on the ICP (Internet Computer Protocol)
+* 🧠  I'm learning AstroJS a new JavaScript framework
+* 🤝  I'm open to collaborating on AstroJS
 
 <a href="https://www.github.com/rncrmn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rncrmn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/rncrmn" target="_blank" rel="noreferrer"><img
