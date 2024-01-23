@@ -9,8 +9,8 @@ I've been a developer for nearly a decade, started from fundamentals HTML, CSS a
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [aaroncarmen.com](https://aaroncarmen.netlify.app/)
 * ✉️  You can contact me at [aaronleadgeex@gmail.com](mailto:aaronleadgeex@gmail.com)
-* 🧠  I'm learning AstroJS a new JavaScript framework
-* 🤝  I'm open to collaborating on AstroJS
+* 🧠  I'm learning NextJS a JavaScript framework
+* 🤝  I'm open to collaborating on NextJS
 
 <a href="https://www.github.com/rncrmn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rncrmn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/rncrmn" target="_blank" rel="noreferrer"><img
