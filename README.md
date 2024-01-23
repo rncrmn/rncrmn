@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React/NextJS Developer
 ----------------------------------
 
-I've been a developer for nearly a decade, started from fundamentals HTML, CSS and JS for a year then got a job a senior WordPress developer for a marketing agency in Australia for 7 years and 1 year experience of React, AstroJs & SolidJS.
+I've been a developer for nearly a decade, started from fundamentals HTML, CSS and JS for a year then got a job a senior WordPress developer for a marketing agency in Australia for 7 years and 1 year experience of React & NextJS.
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [aaroncarmen.com](https://aaroncarmen.netlify.app/)
