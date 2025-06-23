@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Aaron Carmen
 ====================================================================================================================================
 
-React/Next.js Developer
+Next.js/React Developer
 ----------------------------------
 
 I've been a developer for nearly a decade, started from fundamentals HTML, CSS and JS for a year then got a job a senior WordPress developer for a marketing agency in Australia for 7 years and 1 year experience of React & Next.js.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [aaroncarmen.com](https://aaroncarmen.netlify.app/)
+* 🖥️  See my portfolio at [aaroncarmen.com](https://aaroncarmen.vercel.app/)
 * ✉️  You can contact me at [aaronleadgeex@gmail.com](mailto:aaronleadgeex@gmail.com)
-* 🧠  I'm learning NextJS a JavaScript framework
-* 🤝  I'm open to collaborating on Next.js
+* 🧠  3+ years experience in NextJS/React
 
 <a href="https://www.github.com/rncrmn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rncrmn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/rncrmn" target="_blank" rel="noreferrer"><img
